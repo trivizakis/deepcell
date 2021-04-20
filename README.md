@@ -3,7 +3,7 @@ Transfer Learning for nuclei type differentiation from fluorescence microscopy i
 
 <hr>
 
-<b>Pending</b> Publication in:
+Publication in:
 MDPI 
 Special Issue Title: "Advancing Biomedical Image Retrieval and Classification for Computer Aided Diagnosis"
 
